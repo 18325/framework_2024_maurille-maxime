@@ -321,7 +321,7 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 
 ## 👥 Auteurs
 
-**Maurille Maxime** - Développeur principal
+**Maurille KOMI et Maxime DASSI** 
 
 GitHub:  [@18325](https://github.com/18325)
 
